@@ -69,7 +69,7 @@ section {
       border: 3px solid #024e76;
       background-color: #fce138;
       padding: 20px;
-      width: 500px;
+      width: 40%;
       color: #024e76;
       position: absolute;
       bottom: 120px;
@@ -108,7 +108,7 @@ section {
   .intro {
     text-align: center;
   }
-  .intro {
+  .intro h2 {
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
@@ -120,3 +120,11 @@ section {
     /* add this alongside your other declarations */
     display: inline-block;
   }
+  .intro p {
+    line-height: 1.7;
+    color: 39a6b2;
+    width: 80%;
+    font-size: 20px;
+    margin: 0 auto;
+  }
+  
