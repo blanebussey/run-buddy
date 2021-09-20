@@ -69,7 +69,7 @@ section {
       border: 3px solid #024e76;
       background-color: #fce138;
       padding: 20px;
-      width: 40%;
+      width: 500px;
       color: #024e76;
       position: absolute;
       bottom: 120px;
@@ -229,4 +229,9 @@ section {
 .trainer-bio p {
   font-size: 17px;
   line-height: 1.3;
+}
+/* REACH OUT STYLES START */
+.contact {
+  text-align: center;
+  background: #024e76;
 }
