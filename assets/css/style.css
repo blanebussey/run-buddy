@@ -206,6 +206,12 @@ section {
   flex: 12;
 }
 
+.step-text h4 {
+  font-size: 26px;
+  line-height: 1.5;
+  color: #024e76;
+}
+
 .step-img img {
   max-width: 100%
 }
